@@ -1,0 +1,27 @@
+h1 {
+	font-family: helvetica;
+	color:rgb(83,178,240);
+}
+div  {
+	font-family: helvetica;
+}
+hr {
+    border-style: inset
+}
+h2 {
+	font-family: helvetica;
+}
+h3 {
+	font-family: helvetica;
+}
+h4 {
+    font-family: helvetica;
+}
+body{
+	background-color: rgb(247,245,245);
+	margin-top: 100px;
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-bottom: 100px;
+	padding: 100px;
+}
