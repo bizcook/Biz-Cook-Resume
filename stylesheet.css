@@ -1,27 +1,65 @@
 h1 {
-	font-family: helvetica;
-	color:rgb(83,178,240);
+	font-family: helvetica, arial, sans-serif;
+	color:#7aaad2;
+	font-size: 36pt;
+	letter-spacing: 3px;
+	text-align: center;
+	text-shadow: 1px 2px 1px #7aaad2;
 }
-div  {
-	font-family: helvetica;
+    
+section  {
+	font-family: helvetica, arial, sans-serif;
 }
 hr {
-    border-style: inset
+    border-style: inset;
+    color: #7aaad2;
 }
 h2 {
-	font-family: helvetica;
+	font-family: helvetica, arial, sans-serif;
+	font-size: 16pt;
+	font-weight:bold;
+	color:#eea256;
+	letter-spacing: 2px;
+	text-align: left;
 }
 h3 {
-	font-family: helvetica;
+	font-family: helvetica, arial, sans-serif;
+	text-transform:uppercase;
+	font-size: 12pt;
+	letter-spacing: 1px;
+	color: black;
 }
 h4 {
-    font-family: helvetica;
+    font-family: helvetica, arial, sans-serif;
+    font-size: 8pt;
+    text-align:center;
+    letter-spacing:.75px;
+    text-transform: uppercase;
+    
 }
 body{
-	background-color: rgb(247,245,245);
-	margin-top: 100px;
-	margin-left: 200px;
-	margin-right: 200px;
-	margin-bottom: 100px;
+	background-color: rgb(240,240,240);
+	margin-top: 25px;
+	margin-left: 150px;
+	margin-right: 150px;
+	margin-bottom: 25px;
+	border: 1px solid dimgray;
 	padding: 100px;
+	line-height: 26px;
+	font-size: 12px;
+	color: dimgray;
+   
 }
+
+a {
+    color:dimgray;
+    text-decoration: none;
+}
+a:hover {
+    color: #eea256;
+}
+ul{
+    padding: 0 0 0 50px;
+}
+
+    
